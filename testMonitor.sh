@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PROCESS_NAME="test"
-MONITOR_SERVER=https://ya.ru/
+MONITOR_SERVER=https://test.com/monitoring/test/api
 TIME_CHECK_PROCESS=60
 
 CHECK_RUN_PROCESS=$(ps aux | grep $PROCESS_NAME | grep -v grep | awk '{print $11}')
