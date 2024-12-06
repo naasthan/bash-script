@@ -1,0 +1,6 @@
+Time                   Log
+--------------------- ---------------------
+06.12.24 08:15:10     Failed monitoring process test. Restart. sudo tree -a /var/log
+06.12.24 08:15:15     Failed monitoring process test. Restart. sudo tree -a /var/log
+06.12.24 08:17:43     Failed monitoring process test. Restart.
+06.12.24 08:17:48     Failed monitoring process test. Restart.

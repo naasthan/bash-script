@@ -1,0 +1,10 @@
+[Unit]
+Description=Test monitor
+
+[Service]
+Type=simple
+ExecStart=/usr/lib/systemd/system/testMonitor.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

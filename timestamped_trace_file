@@ -1,0 +1,93 @@
+06.12.24 08:15:10 == Info:   Trying 2a02:6b8::2:242:443...
+06.12.24 08:15:10 == Info: Connected to ya.ru (2a02:6b8::2:242) port 443 (#0)
+06.12.24 08:15:10 == Info: ALPN, offering h2
+06.12.24 08:15:10 == Info: ALPN, offering http/1.1
+06.12.24 08:15:10 == Info:  CAfile: /etc/ssl/certs/ca-certificates.crt
+06.12.24 08:15:10 == Info:  CApath: /etc/ssl/certs
+06.12.24 08:15:10 == Info: TLSv1.0 (OUT), TLS header, Certificate Status (22):
+06.12.24 08:15:10 == Info: TLSv1.3 (OUT), TLS handshake, Client hello (1):
+06.12.24 08:15:10 == Info: TLSv1.2 (IN), TLS header, Certificate Status (22):
+06.12.24 08:15:10 == Info: TLSv1.3 (IN), TLS handshake, Server hello (2):
+06.12.24 08:15:10 == Info: TLSv1.2 (IN), TLS header, Finished (20):
+06.12.24 08:15:10 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):
+06.12.24 08:15:10 == Info: TLSv1.3 (IN), TLS handshake, Certificate (11):
+06.12.24 08:15:10 == Info: TLSv1.3 (IN), TLS handshake, CERT verify (15):
+06.12.24 08:15:10 == Info: TLSv1.3 (IN), TLS handshake, Finished (20):
+06.12.24 08:15:10 == Info: TLSv1.2 (OUT), TLS header, Finished (20):
+06.12.24 08:15:10 == Info: TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):
+06.12.24 08:15:10 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: TLSv1.3 (OUT), TLS handshake, Finished (20):
+06.12.24 08:15:10 == Info: SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+06.12.24 08:15:10 == Info: ALPN, server accepted to use h2
+06.12.24 08:15:10 == Info: Server certificate:
+06.12.24 08:15:10 == Info:  subject: C=RU; ST=Moscow; L=Moscow; O=YANDEX LLC; CN=*.xn--d1acpjx3f.xn--p1ai
+06.12.24 08:15:10 == Info:  start date: Nov 21 11:36:58 2024 GMT
+06.12.24 08:15:10 == Info:  expire date: May 21 20:59:59 2025 GMT
+06.12.24 08:15:10 == Info:  subjectAltName: host "ya.ru" matched cert's "ya.ru"
+06.12.24 08:15:10 == Info:  issuer: C=BE; O=GlobalSign nv-sa; CN=GlobalSign ECC OV SSL CA 2018
+06.12.24 08:15:10 == Info:  SSL certificate verify ok.
+06.12.24 08:15:10 == Info: Using HTTP2, server supports multiplexing
+06.12.24 08:15:10 == Info: Connection state changed (HTTP/2 confirmed)
+06.12.24 08:15:10 == Info: Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+06.12.24 08:15:10 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: Using Stream ID: 1 (easy handle 0x5f96cc0f1eb0)
+06.12.24 08:15:10 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+06.12.24 08:15:10 == Info: TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+06.12.24 08:15:10 == Info: old SSL session ID is stale, removing
+06.12.24 08:15:10 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+06.12.24 08:15:10 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:15:10 == Info: Connection #0 to host ya.ru left intact
+06.12.24 08:17:43 == Info:   Trying 2a02:6b8::2:242:443...
+06.12.24 08:17:43 == Info: Connected to ya.ru (2a02:6b8::2:242) port 443 (#0)
+06.12.24 08:17:43 == Info: ALPN, offering h2
+06.12.24 08:17:43 == Info: ALPN, offering http/1.1
+06.12.24 08:17:43 == Info:  CAfile: /etc/ssl/certs/ca-certificates.crt
+06.12.24 08:17:43 == Info:  CApath: /etc/ssl/certs
+06.12.24 08:17:43 == Info: TLSv1.0 (OUT), TLS header, Certificate Status (22):
+06.12.24 08:17:43 == Info: TLSv1.3 (OUT), TLS handshake, Client hello (1):
+06.12.24 08:17:43 == Info: TLSv1.2 (IN), TLS header, Certificate Status (22):
+06.12.24 08:17:43 == Info: TLSv1.3 (IN), TLS handshake, Server hello (2):
+06.12.24 08:17:43 == Info: TLSv1.2 (IN), TLS header, Finished (20):
+06.12.24 08:17:43 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):
+06.12.24 08:17:43 == Info: TLSv1.3 (IN), TLS handshake, Certificate (11):
+06.12.24 08:17:43 == Info: TLSv1.3 (IN), TLS handshake, CERT verify (15):
+06.12.24 08:17:43 == Info: TLSv1.3 (IN), TLS handshake, Finished (20):
+06.12.24 08:17:43 == Info: TLSv1.2 (OUT), TLS header, Finished (20):
+06.12.24 08:17:43 == Info: TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):
+06.12.24 08:17:43 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: TLSv1.3 (OUT), TLS handshake, Finished (20):
+06.12.24 08:17:43 == Info: SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+06.12.24 08:17:43 == Info: ALPN, server accepted to use h2
+06.12.24 08:17:43 == Info: Server certificate:
+06.12.24 08:17:43 == Info:  subject: C=RU; ST=Moscow; L=Moscow; O=YANDEX LLC; CN=*.xn--d1acpjx3f.xn--p1ai
+06.12.24 08:17:43 == Info:  start date: Nov 21 11:36:58 2024 GMT
+06.12.24 08:17:43 == Info:  expire date: May 21 20:59:59 2025 GMT
+06.12.24 08:17:43 == Info:  subjectAltName: host "ya.ru" matched cert's "ya.ru"
+06.12.24 08:17:43 == Info:  issuer: C=BE; O=GlobalSign nv-sa; CN=GlobalSign ECC OV SSL CA 2018
+06.12.24 08:17:43 == Info:  SSL certificate verify ok.
+06.12.24 08:17:43 == Info: Using HTTP2, server supports multiplexing
+06.12.24 08:17:43 == Info: Connection state changed (HTTP/2 confirmed)
+06.12.24 08:17:43 == Info: Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+06.12.24 08:17:43 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: Using Stream ID: 1 (easy handle 0x5da41743aeb0)
+06.12.24 08:17:43 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+06.12.24 08:17:43 == Info: TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+06.12.24 08:17:43 == Info: old SSL session ID is stale, removing
+06.12.24 08:17:43 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+06.12.24 08:17:43 == Info: TLSv1.2 (OUT), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: TLSv1.2 (IN), TLS header, Supplemental data (23):
+06.12.24 08:17:43 == Info: Connection #0 to host ya.ru left intact
